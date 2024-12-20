@@ -1,4 +1,6 @@
-age = 23
-message = " Happy "+ str(age) + "rd Birthday! "
-print(message)
 
+
+bicycles = ['trek', 'cannondale', 'redline', 'specialized']
+print(bicycles)
+print(bicycles[0])
+print(bicycles[-1])
